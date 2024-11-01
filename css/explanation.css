@@ -1,0 +1,14 @@
+.scrollblock {
+    position: relative;
+    margin: 0;
+    width: 100%;
+    /*color: white;*/
+    text-align:center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.block-title { background-color: #FFF; }
+.block-setup { background-color: #fff8c9; }
+.block-source { background-color: #ffc19f; }
+.block-corre { background-color: #D9EDF7; }
+.block-pub { background-color: #348fd4; }
